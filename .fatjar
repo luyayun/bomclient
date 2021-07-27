@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue May 09 23:10:55 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=bomclient.jar
+manifest.mergeall=true
+manifest.mainclass=com.jiangda.cust.integration.transport.gener.jdintegration.ECN2BOM
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
